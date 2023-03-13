@@ -1,0 +1,8 @@
+﻿  sdl_rysowanie.cpp
+C:\Users\Michal\source\repos\WFC_single_inp\WFC_single_inp\sdl_rysowanie.cpp(98,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Trwa generowanie kodu
+  3 of 927 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  WFC_single_inp.vcxproj -> C:\Users\Michal\source\repos\WFC_single_inp\x64\Release\WFC_single_inp.exe

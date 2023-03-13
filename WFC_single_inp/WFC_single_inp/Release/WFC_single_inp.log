@@ -1,0 +1,24 @@
+﻿  pix_set.cpp
+  pixels.cpp
+C:\Users\Michal\source\repos\WFC_single_inp\WFC_single_inp\pixels.cpp(58,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Michal\source\repos\WFC_single_inp\WFC_single_inp\pixels.cpp(60,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Michal\source\repos\WFC_single_inp\WFC_single_inp\pixels.cpp(70,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Michal\source\repos\WFC_single_inp\WFC_single_inp\pixels.cpp(72,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  sdl_rysowanie.cpp
+C:\Users\Michal\source\repos\WFC_single_inp\WFC_single_inp\sdl_rysowanie.cpp(78,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\Michal\source\repos\WFC_single_inp\WFC_single_inp\functions.h(23,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Michal\source\repos\WFC_single_inp\WFC_single_inp\sdl_rysowanie.cpp(59): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „void shuffle<std::pair<int,int>>(std::vector<std::pair<int,int>,std::allocator<std::pair<int,int>>> &)” funkcji szablon
+  superpositions.cpp
+C:\Users\Michal\source\repos\WFC_single_inp\WFC_single_inp\superpositions.cpp(37,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Michal\source\repos\WFC_single_inp\WFC_single_inp\superpositions.cpp(39,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Michal\source\repos\WFC_single_inp\WFC_single_inp\superpositions.cpp(49,25): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Michal\source\repos\WFC_single_inp\WFC_single_inp\superpositions.cpp(90,28): warning C4018: ">=": niezgodność typu ze znakiem/bez znaku
+C:\Users\Michal\source\repos\WFC_single_inp\WFC_single_inp\superpositions.cpp(90,47): warning C4018: ">=": niezgodność typu ze znakiem/bez znaku
+C:\Users\Michal\source\repos\WFC_single_inp\WFC_single_inp\functions.h(23,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Michal\source\repos\WFC_single_inp\WFC_single_inp\superpositions.cpp(17): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „void shuffle<int>(std::vector<int,std::allocator<int>> &)” funkcji szablon
+  Trwa generowanie kodu
+  4 of 738 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  WFC_single_inp.vcxproj -> C:\Users\Michal\source\repos\WFC_single_inp\Release\WFC_single_inp.exe
