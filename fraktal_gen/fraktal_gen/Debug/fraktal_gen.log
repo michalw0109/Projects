@@ -1,0 +1,17 @@
+﻿  sdl_rysowanie.cpp
+C:\Users\Michal\source\repos\fraktal_gen\fraktal_gen\sdl_rysowanie.cpp(123,19): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Michal\source\repos\fraktal_gen\fraktal_gen\sdl_rysowanie.cpp(167,19): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Michal\source\repos\fraktal_gen\fraktal_gen\sdl_rysowanie.cpp(256,19): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Michal\source\repos\fraktal_gen\fraktal_gen\sdl_rysowanie.cpp(392,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Michal\source\repos\fraktal_gen\fraktal_gen\sdl_rysowanie.cpp(407,13): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Michal\source\repos\fraktal_gen\fraktal_gen\sdl_rysowanie.cpp(411,15): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Michal\source\repos\fraktal_gen\fraktal_gen\sdl_rysowanie.cpp(415,16): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Michal\source\repos\fraktal_gen\fraktal_gen\sdl_rysowanie.cpp(600,47): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Michal\source\repos\fraktal_gen\fraktal_gen\sdl_rysowanie.cpp(600,38): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Michal\source\repos\fraktal_gen\fraktal_gen\sdl_rysowanie.cpp(604,48): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Michal\source\repos\fraktal_gen\fraktal_gen\sdl_rysowanie.cpp(604,38): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Michal\source\repos\fraktal_gen\fraktal_gen\sdl_rysowanie.cpp(611,48): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Michal\source\repos\fraktal_gen\fraktal_gen\sdl_rysowanie.cpp(611,39): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Michal\source\repos\fraktal_gen\fraktal_gen\sdl_rysowanie.cpp(615,49): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Michal\source\repos\fraktal_gen\fraktal_gen\sdl_rysowanie.cpp(615,39): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+  fraktal_gen.vcxproj -> C:\Users\Michal\source\repos\fraktal_gen\Debug\fraktal_gen.exe
